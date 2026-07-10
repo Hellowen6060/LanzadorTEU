@@ -63,12 +63,12 @@ Con soporte para **instalación silenciosa/desatendida**, puedes automatizar tod
 
 | Interfaz Principal | Gestión de Plantillas |
 |:---:|:---:|
-| ![Principal](<<img width="1104" height="685" alt="Interfaz Principal" src="https://github.com/user-attachments/assets/2f731ed0-1cbe-488d-bb2a-069d026079ee" />) | ![Plantillas](<<img width="800" height="832" alt="Gestión Plantillas" src="https://github.com/user-attachments/assets/a163140e-2f4d-4797-b49b-de529dfdc0d0" />) |
+| <img width="1104" height="685" alt="Interfaz Principal" src="https://github.com/user-attachments/assets/2f731ed0-1cbe-488d-bb2a-069d026079ee" /> | <img width="800" height="832" alt="Gestión Plantillas" src="https://github.com/user-attachments/assets/a163140e-2f4d-4797-b49b-de529dfdc0d0" /> |
 | **Ventana principal con tabla de programas** | **Gestor de plantillas con vista de 2 columnas** |
 
 | Agregar Programa | Ayuda del Instalador |
 |:---:|:---:|
-| ![Agregar](<<img width="702" height="733" alt="Agregar Programa" src="https://github.com/user-attachments/assets/4904a94d-04f7-415a-88f3-216ccb7e79c2" />) | ![Ayuda](<<img width="723" height="715" alt="Comandos" src="https://github.com/user-attachments/assets/f1b71103-14bf-4570-a340-6767a89f1848" />) |
+| <img width="702" height="733" alt="Agregar Programa" src="https://github.com/user-attachments/assets/4904a94d-04f7-415a-88f3-216ccb7e79c2" /> | <img width="723" height="715" alt="Comandos" src="https://github.com/user-attachments/assets/f1b71103-14bf-4570-a340-6767a89f1848" /> |
 | **Formulario de agregar programa** | **Extracción de comandos silenciosos** |
 
 </div>
